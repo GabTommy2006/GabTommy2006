@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" alt="Hoang Phuc Hung — Gabriel Tommy. Welcome to my GitHub page." width="100%" />
 </p>
 
-<h1 align="center">Hi ! I'm Hoàng Phúc Hưng</h1>
+<h1 align="center">Hi 👋 ! I'm Hoàng Phúc Hưng</h1>
 
 <h3 align="center">Learning, building, and turning ideas into something useful.</h3>
 
