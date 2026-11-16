@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" alt="Hoang Phuc Hung — Gabriel Tommy. Welcome to my GitHub page." width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gabriel Tommy!</h1>
+<h1 align="center">Hi ! I'm Hoàng Phúc Hưng</h1>
 
 <h3 align="center">Learning, building, and turning ideas into something useful.</h3>
 
@@ -38,6 +38,7 @@
 Technologies I'm exploring through my projects:
 
 <p>
+  <a href="https://www.python.org/"><img src="./assets/icons/python.svg" alt="Python" title="Python" width="48" height="48" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="48" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="48" /></a>&nbsp;
   <a href="https://nodejs.org/"><img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="48" height="48" /></a>&nbsp;
