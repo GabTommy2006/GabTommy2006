@@ -25,15 +25,13 @@
 
 ---
 
-- 🌱 I'm currently exploring **full-stack web development**.
-- 🎯 My goal is to build applications that **solve real problems and bring value to people**.
-- 🛠️ I'm learning by building projects and experimenting with new ideas.
-- 📂 Take a look at my work in [my repositories](https://github.com/GabTommy2006?tab=repositories).
-- 💬 You can find me on GitHub as [@GabTommy2006](https://github.com/GabTommy2006).
-- ⚡ Fun fact: **Gabriel Tommy** is the name behind **GabTommy2006**. Always learning, always a work in progress!
-
-<!-- Draft introduction: refine the learning focus and goals with the profile owner.
-Add an email, CV, degree, and specific experience only after the owner provides them. -->
+- 🌱 I'm learning to become a **full-stack developer**.
+- 💭 Sometimes I'm a little silly and tend to let my mind wander.
+- 🎯 My goal in this field is to put my skills to work, **solve problems for others**, and improve myself every day.
+- 🛠️ Honestly, I learn new things by... **figuring them out myself and getting hands-on**. Theory isn't exactly my strong suit.
+- 📚 You can get a glimpse of my learning journey through [my repositories](https://github.com/GabTommy2006?tab=repositories).
+- 📬 Reach me at **[hungmc.060606@gmail.com](mailto:hungmc.060606@gmail.com)**.
+- 🫀 Fun fact: I was born with a **congenital heart condition called APSO-3**. So you might notice that I seem a little frail, even though I look like anyone else on the outside.
 
 ## Languages & Tools
 
