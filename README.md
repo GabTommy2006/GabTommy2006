@@ -11,6 +11,10 @@
   learning through hands-on projects, and improving one step at a time.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabTommy2006&amp;label=Profile%20views&amp;color=C8102E&amp;style=flat" alt="Profile views counter for GabTommy2006" />
+</p>
+
 ---
 
 - 🌱 I'm currently exploring **full-stack web development**.
@@ -41,6 +45,23 @@ Technologies I'm exploring through my projects:
 ## My GitHub Journey
 
 Every project is another chance to practice, learn, and build something better.
+
+<!-- Live third-party cards. Keep these URLs remote so their data can refresh.
+Stats: github.com/vn7n24fzkq/github-profile-summary-cards
+Streak: github.com/DenverCoder1/github-readme-streak-stats
+Views: github.com/antonkomarev/github-profile-views-counter -->
+
+<p align="center">
+  <a href="https://github.com/GabTommy2006?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabTommy2006&amp;theme=github_dark" alt="Gabriel Tommy's GitHub statistics: stars, commits, pull requests, issues, and repositories contributed to" width="420" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GabTommy2006?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=GabTommy2006&amp;background=0D1117&amp;hide_border=true&amp;ring=E11D48&amp;fire=F43F5E&amp;currStreakLabel=F43F5E&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=9CA3AF" alt="Gabriel Tommy's GitHub contribution streak: total contributions, current streak, and longest streak" width="600" />
+  </a>
+</p>
 
 [Explore my projects →](https://github.com/GabTommy2006?tab=repositories)
 &nbsp;·&nbsp;
