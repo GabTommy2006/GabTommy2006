@@ -15,7 +15,7 @@
 <p align="center">
   I love figuring things out on my own, exploring new things, and... occasionally breaking them.
   I'm still learning and practicing, with the hope of becoming someone who makes a positive contribution to society.
-  I have a lot of experience to gain and can be a little clueless sometimes,
+  I have a lot of experience to gain and can be a little dumb sometimes,
   but I'm determined to keep improving and become a better version of myself every day.
 </p>
 
