@@ -1,0 +1,32 @@
+{
+  "surface": "assets/profile-banner.svg",
+  "mode": "experience",
+  "canvas": {
+    "width": 1200,
+    "height": 420
+  },
+  "colors": {
+    "base": "#080808",
+    "radialFields": [
+      "#D20A31",
+      "#8C0928",
+      "#C90928"
+    ],
+    "text": "#FFFFFF"
+  },
+  "typography": {
+    "family": "Google Sans",
+    "nameSize": 82,
+    "supportSizes": [
+      23,
+      30
+    ],
+    "delivery": "vector outlines"
+  },
+  "logo": false,
+  "language": "en",
+  "background": {
+    "type": "overlapping elliptical radial gradients",
+    "falloff": "(1-r\u00b2)\u00b2"
+  }
+}
