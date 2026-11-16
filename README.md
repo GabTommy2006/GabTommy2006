@@ -7,8 +7,16 @@
 <h3 align="center">Learning, building, and turning ideas into something useful.</h3>
 
 <p align="center">
-  I'm Hoang Phuc Hung, also known as Gabriel Tommy. I enjoy exploring technology,
-  learning through hands-on projects, and improving one step at a time.
+  Hi! I'm Hoàng Phúc Hưng, also known by my nickname, Gabriel Tommy.
+  I'm currently a third-year student at the
+  <a href="https://vnuk.udn.vn/en/about-us/">VN-UK Institute for Research and Executive Education (VNUK), the University of Danang</a>.
+</p>
+
+<p align="center">
+  I love figuring things out on my own, exploring new things, and... occasionally breaking them.
+  I'm still learning and practicing, with the hope of becoming someone who makes a positive contribution to society.
+  I have a lot of experience to gain and can be a little clueless sometimes,
+  but I'm determined to keep improving and become a better version of myself every day.
 </p>
 
 <p align="center">
