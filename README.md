@@ -1,32 +1,53 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Hoang Phuc Hung — Gabriel Tommy" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Hoang Phuc Hung — Gabriel Tommy. Welcome to my GitHub page." width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Gabriel Tommy!</h1>
+
+<h3 align="center">Learning, building, and turning ideas into something useful.</h3>
 
 <p align="center">
-  <a href="https://github.com/GabTommy2006?tab=repositories">Explore my projects</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/GabTommy2006">@GabTommy2006</a>
+  I'm Hoang Phuc Hung, also known as Gabriel Tommy. I enjoy exploring technology,
+  learning through hands-on projects, and improving one step at a time.
 </p>
 
-## Hi, I'm Hung
+---
 
-Welcome to my GitHub page. This is where I share my projects, experiments, and the things I learn along the way.
+- 🌱 I'm currently exploring **full-stack web development**.
+- 🎯 My goal is to build applications that **solve real problems and bring value to people**.
+- 🛠️ I'm learning by building projects and experimenting with new ideas.
+- 📂 Take a look at my work in [my repositories](https://github.com/GabTommy2006?tab=repositories).
+- 💬 You can find me on GitHub as [@GabTommy2006](https://github.com/GabTommy2006).
+- ⚡ Fun fact: **Gabriel Tommy** is the name behind **GabTommy2006**. Always learning, always a work in progress!
 
-- **Name:** Hoang Phuc Hung
-- **Also known as:** Gabriel Tommy
-- **GitHub:** [@GabTommy2006](https://github.com/GabTommy2006)
-- **Projects & source code:** [Explore my repositories](https://github.com/GabTommy2006?tab=repositories)
+<!-- Draft introduction: refine the learning focus and goals with the profile owner.
+Add an email, CV, degree, and specific experience only after the owner provides them. -->
 
-<!-- Add your actual studies, work, technologies, and public contact links here. -->
+## Languages & Tools
 
-## What I share
+Technologies I'm exploring through my projects:
 
-A space to turn ideas into code, document my progress, and share what I learn through each project.
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="48" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="48" /></a>&nbsp;
+  <a href="https://nodejs.org/"><img src="./assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="48" height="48" /></a>&nbsp;
+  <a href="https://nextjs.org/"><img src="./assets/icons/nextjs.svg" alt="Next.js" title="Next.js" width="48" height="48" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/icons/html5.svg" alt="HTML5" title="HTML5" width="48" height="48" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/icons/css3.svg" alt="CSS3" title="CSS3" width="48" height="48" /></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="./assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="48" height="48" /></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="./assets/icons/git.svg" alt="Git" title="Git" width="48" height="48" /></a>
+</p>
 
-<!-- Add 2–3 public projects with links, a short description, and your contributions. -->
+## My GitHub Journey
+
+Every project is another chance to practice, learn, and build something better.
+
+[Explore my projects →](https://github.com/GabTommy2006?tab=repositories)
+&nbsp;·&nbsp;
+[See my contributions →](https://github.com/GabTommy2006?tab=overview)
 
 ---
 
 <p align="center">
-  <sub>Thanks for stopping by. See you in the next project!</sub>
+  <sub>Thanks for stopping by. Let's keep learning and building!</sub>
 </p>
